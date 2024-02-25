@@ -1,0 +1,5 @@
+1,Cakes,50,10
+2,Pastries,5,20
+3,Cookies,2,290
+4,Croissants,5,280
+5,Muffins,4,240
